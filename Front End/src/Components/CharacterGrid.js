@@ -1,7 +1,7 @@
 import React from 'react'
 import CharacterItem from './CharacterItem'
 
-const CharacterGrid = ({ items, isLoading }) => {
+const CharacterGrid = ({ items }) => {
   return  (
     <section className='cards'>
       {items.map((item) => (

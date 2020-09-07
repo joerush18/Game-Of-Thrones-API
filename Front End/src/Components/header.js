@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <header className='center'>
-      <img src="https://logos-download.com/wp-content/uploads/2016/09/Game_of_Thrones_logo_logotype_wordmark.png" alt='' />
+      <img src="http://www.pngmart.com/files/4/Game-of-Thrones-Transparent-Background.png" alt='' />
     </header>
   )
 }
